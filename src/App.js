@@ -3,7 +3,7 @@ import { BrowserRouter, Route, Link } from 'react-router-dom';
 
 const Home = () => (
   <div>
-    <h3>Home!</h3>
+    <h3>Home</h3>
   </div>
 );
 
